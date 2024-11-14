@@ -22,8 +22,7 @@
 
 * ![vivado](https://img.shields.io/badge/-Vivado-FF1010.svg?logo=xilinx&logoColor=blue) 
 
-
-
+* ![cadence](https://img.shields.io/badge/cadence-blue) 
 
 
 <img align="right" src="https://komarev.com/ghpvc/?username=shawag&color=green">
