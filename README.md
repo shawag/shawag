@@ -20,7 +20,9 @@
 
 * ![systemverilog](https://img.shields.io/badge/-SystemVerilog-CAD09D.svg) ![verilog](https://img.shields.io/badge/-Verilog-8985F0.svg) ![python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff) ![Tcl](https://img.shields.io/badge/-Tcl-239120.svg)
 
-![vivado](https://img.shields.io/badge/-Vivado-FF1010.svg?logo=xilinx&logoColor=ffffff) 
+* ![vivado](https://img.shields.io/badge/-Vivado-FF1010.svg?logo=xilinx&logoColor=blue) 
+
+
 
 
 
