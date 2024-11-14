@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @shawag
-- 👀 I’m interested in FPGA,verilog，digital IC design
-- 🌱 I’m currently learning RTL2GDS flow， verification method， IP design
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+- Interested in FPGA,verilog，digital IC design
+- Currently learning RTL2GDS flow， verification method， IP design
 
 <table>
 <tr>
@@ -20,10 +18,10 @@
 </table>
 
 
-* ![systemverilog](https://img.shields.io/badge/-SystemVerilog-CAD09D.svg) ![verilog](https://img.shields.io/badge/-Verilog-8985F0.svg) ![Chisel](https://img.shields.io/badge/-Chisel-2030A0.svg) ![c](https://img.shields.io/badge/-C/C++-red?logo=c&logoColor=ffffff) ![python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff) ![Tcl](https://img.shields.io/badge/-Tcl-239120.svg)
+* ![systemverilog](https://img.shields.io/badge/-SystemVerilog-CAD09D.svg) ![verilog](https://img.shields.io/badge/-Verilog-8985F0.svg) ![python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff) ![Tcl](https://img.shields.io/badge/-Tcl-239120.svg)
 
-* ![iverilog](https://img.shields.io/badge/-iverilog-green.svg) ![vivado](https://img.shields.io/badge/-Vivado-FF1010.svg?logo=xilinx&logoColor=ffffff) 
+![vivado](https://img.shields.io/badge/-Vivado-FF1010.svg?logo=xilinx&logoColor=ffffff) 
 
 
 
-<img align="right" src="https://komarev.com/ghpvc/?username=zznjupt&color=green">
+<img align="right" src="https://komarev.com/ghpvc/?username=shawag&color=green">
